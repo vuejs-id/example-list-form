@@ -192,9 +192,6 @@ export default {
 </script>
 
 <style>
-  input {
-    /* width: 100%; */
-  }
   input[type="number"] {
     text-align: right;
   }
